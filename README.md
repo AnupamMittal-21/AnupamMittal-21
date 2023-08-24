@@ -9,9 +9,10 @@
 
 --->
 <h1 align="center">Hi, I'm Anupam Mittal</h1>
+<br>
 <h3 align="center">Software Developer in Training: Crafting Solutions with Code</h3>
 
-- 🔭 I’m currently studying [Information Technology] (at NITJ)
+- 🔭 I’m currently studying Information Technology at NIT Jalandhar
 
 - 🌱 I’m currently learning **AI + ML + HTML + CSS + JS**
 
