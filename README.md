@@ -15,15 +15,15 @@
 
 - 🔭 I’m currently studying Information Technology at NIT Jalandhar
 
-- 🌱 I’m currently learning **AI + ML + HTML + CSS + JS**
+- 🌱 I’m currently learning **AI + ML**
 
-- ✨ I'm good at **DSA + Problem Solving** 
+- ✨ I'm good at **DSA + ML + DL + Web Automation + Web Scraping + Problem Solving** 
 
 - 📫 How to reach me **anupammittal1234@gmail.com**
 
 - 📽️ Youtube Channel link for projects- **https://www.youtube.com/channel/UC6cBp3_yWPMFIBUK2S3yGqw**
-  
-- 🖨️ Project drive link- **https://drive.google.com/drive/folders/1SUfxH13VVmGWis_OpGv1oFmSWIyUa7T5?usp=sharing**
+
+- 📃 Resume Link : **https://drive.google.com/file/d/1d-k9jxnJNb0tHNIhsVeM-yirVFQbr_x5/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
