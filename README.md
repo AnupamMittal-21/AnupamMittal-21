@@ -17,13 +17,13 @@
 
 - 🌱 I’m currently learning **AI + ML**
 
-- ✨ I'm good at **DSA + ML + DL + Web Automation + Web Scraping + Problem Solving** 
+- ✨ I'm good at **DSA + ML + DL + Web Automation + Web Scraping + AI + Problem Solving** 
 
 - 📫 How to reach me **anupammittal1234@gmail.com**
 
 - 📽️ Youtube Channel link for projects- **https://www.youtube.com/channel/UC6cBp3_yWPMFIBUK2S3yGqw**
 
-- 📃 Resume Link : **https://drive.google.com/file/d/1d-k9jxnJNb0tHNIhsVeM-yirVFQbr_x5/view?usp=sharing**
+- 📃 Resume Link : **[https://drive.google.com/file/d/1d-k9jxnJNb0tHNIhsVeM-yirVFQbr_x5/view?usp=sharing](https://drive.google.com/file/d/1BfMYLNtHRlr8AAHd_6ePiHjqhU-9RxpQ/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
